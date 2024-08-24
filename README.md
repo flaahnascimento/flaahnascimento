@@ -1,5 +1,4 @@
 - 👋 Olá, Povo!! sou a @flaahnascimento
-- 🌱 Atualmente estou cursando técnico em ADS
 - 👩‍💻 acompanhe minha jornada na programação!
 
 <!---
