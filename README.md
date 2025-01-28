@@ -3,7 +3,7 @@
 
 -  Sou estudante de Tecnico em Desenvolvimento de Sistemas no Senai e trabalho na CPTM. Atualmente estou no segundo semestre e já desenvolvi alguns projetos durante o curso, que você pode conferir aqui no meu perfil.
 
-**Cursos complementares Senai**
+**Formação complementar - Senai**
 -  Microsoft Power Automate
 -  Microsoft Power Bi
 -  Interfaces Web com Bootstrep
