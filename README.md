@@ -16,7 +16,7 @@
 **💻 Projetos que já fiz:**
 - Alguns projetos práticos das aulas, disponíveis no meu repositório.
 
-**Redes Sociais: **
+**Redes Sociais:**
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://flavi_nr?igsh=OW81bDJ5MXlqdXUO)
   
 Sinta-se à vontade para explorar meu GitHub e acompanhar meu progresso! 🚀
