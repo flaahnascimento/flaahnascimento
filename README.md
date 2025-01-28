@@ -1,5 +1,6 @@
 
 <h1> <a ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Flávia+Ribeiro+.+.+." alt="Typing SVG" /></a> </h1>
+<h1 style="color: pink;">👋 Olá, Povo!</h1>
 -  Sou estudante de Tecnico em Desenvolvimento de Sistemas no Senai e trabalho na CPTM. Atualmente estou no segundo semestre e já desenvolvi alguns projetos durante o curso, que você pode conferir aqui no meu perfil.
 
 **Cursos complementares Senai**
