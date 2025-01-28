@@ -18,6 +18,8 @@
   
 Sinta-se à vontade para explorar meu GitHub e acompanhar meu progresso! 🚀
 
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
 <!---
 flaahnascimento/flaahnascimento is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
