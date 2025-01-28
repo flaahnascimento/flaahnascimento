@@ -1,5 +1,5 @@
 **👋 Olá, Povo! Eu sou a Flávia!👩‍💻**
--  Sou estudante de Tecnico em Desenvolvimento de Sistemas no Senai e trabalho na CPTM. Atualemnte estou no segundo semestre e já desenvolvi alguns projetos durante o curso, que você pode conferir aqui no meu perfil.
+-  Sou estudante de Tecnico em Desenvolvimento de Sistemas no Senai e trabalho na CPTM. Atualmente estou no segundo semestre e já desenvolvi alguns projetos durante o curso, que você pode conferir aqui no meu perfil.
   
 **📚 Tecnologias que estou aprendendo atualmente:**
 - HTML
