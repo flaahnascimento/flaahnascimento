@@ -12,6 +12,7 @@
 - HTML
 - CSS
 - C##
+- C++
   
 **💻 Projetos que já fiz:**
 - Alguns projetos práticos das aulas, disponíveis no meu repositório.
