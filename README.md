@@ -7,6 +7,7 @@
 -  Microsoft Power Automate
 -  Microsoft Power Bi
 -  Interfaces Web com Bootstrep
+-  Google cloud: https://www.cloudskillsboost.google/public_profiles/0e36c971-19de-45d5-a391-87248c55f426.
   
 **📚 Tecnologias que estou aprendendo atualmente:**
 - HTML
