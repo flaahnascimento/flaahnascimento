@@ -4,7 +4,7 @@
 -  Sou estudante de Tecnico em Desenvolvimento de Sistemas no Senai e trabalho na CPTM. Atualmente estou no segundo semestre e já desenvolvi alguns projetos durante o curso, que você pode conferir aqui no meu perfil.
 
 **Formação complementar - Senai**
--  Google cloud: https://www.cloudskillsboost.google/public_profiles/0e36c971-19de-45d5-a391-87248c55f426.
+-  Google cloud: https://www.skills.google/public_profiles/0e36c971-19de-45d5-a391-87248c55f426
   
 **📚 Tecnologias que estou aprendendo atualmente:**
 - Python
