@@ -4,16 +4,12 @@
 -  Sou estudante de Tecnico em Desenvolvimento de Sistemas no Senai e trabalho na CPTM. Atualmente estou no segundo semestre e já desenvolvi alguns projetos durante o curso, que você pode conferir aqui no meu perfil.
 
 **Formação complementar - Senai**
--  Microsoft Power Automate
--  Microsoft Power Bi
--  Interfaces Web com Bootstrep
 -  Google cloud: https://www.cloudskillsboost.google/public_profiles/0e36c971-19de-45d5-a391-87248c55f426.
   
 **📚 Tecnologias que estou aprendendo atualmente:**
-- HTML
-- CSS
-- C##
-- C++
+- Python
+- Java
+- Javascript
   
 **💻 Projetos que já fiz:**
 - Alguns projetos práticos das aulas, disponíveis no meu repositório.
