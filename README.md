@@ -1,7 +1,7 @@
 
 <h1> <a ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Olá+Povo!👋+Eu+sou+a+Flávia!👩‍💻+.+.+.&color=FF1493" alt="Typing SVG" /></a> </h1>
 
--  Sou estudante de Tecnico em Desenvolvimento de Sistemas no Senai e trabalho na CPTM. Atualmente estou no segundo semestre e já desenvolvi alguns projetos durante o curso, que você pode conferir aqui no meu perfil.
+-  Sou Tecnica em Desenvolvimento de Sistemas pela instituição Senai. Ao longo do curso desenvolvimento alguns projetos, que você pode conferir aqui no meu perfil.
 
 **Formação complementar - Senai**
 -  Google cloud: https://www.skills.google/public_profiles/0e36c971-19de-45d5-a391-87248c55f426
