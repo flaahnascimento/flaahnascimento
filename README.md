@@ -8,7 +8,7 @@
   
 **📚 Tecnologias que estou aprendendo atualmente:**
 - Python
-- Java
+- React | tailwind CSS
 - Javascript
   
 **💻 Projetos que já fiz:**
